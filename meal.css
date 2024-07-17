@@ -1,0 +1,37 @@
+#header{
+    text-align: center;
+}
+
+#lists button{
+    display: inline-block;
+    text-align: center;
+    margin-left: 41vw;
+    margin-top: 4vh;
+}
+
+#lists{
+    display: inline;
+}
+
+main{
+   display: inline;
+}
+
+#favouriteList{
+    display: inline-flex;
+}
+
+
+#favouriteList{
+    position: relative;
+    color: black;
+    display: inline-block;
+}
+
+#favouriteLists{
+    color: goldenrod;
+}
+
+#heading{
+   color: rgb(211, 5, 50);
+}
