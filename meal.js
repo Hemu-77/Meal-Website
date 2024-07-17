@@ -130,5 +130,4 @@ async function getItems() {
         console.log(err);
     }
 }
-
 getItems();
